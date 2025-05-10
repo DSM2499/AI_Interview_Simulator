@@ -1,0 +1,61 @@
+{
+    "name": "Ella Chen",
+    "summary": "Data analyst with 4 years of experience in the education sector. Skilled in leveraging Power BI to drive data-informed decisions and improve operational efficiency.",
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "Fictional University",
+            "year": "2015"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Senior Data Analyst",
+            "company": "Virtual Learning Institute",
+            "years": "2018-2021",
+            "description": "Led the development of automated dashboards in Power BI, resulting in a 20% increase in student engagement. Implemented predictive analytics models to optimize course offerings."
+        },
+        {
+            "title": "Data Analyst",
+            "company": "Tech-Ed Solutions",
+            "years": "2016-2018",
+            "description": "Analyzed student performance data to identify at-risk students, leading to a 15% improvement in student retention rates. Developed data visualization reports for management decision-making."
+        }
+    ],
+    "skills": [
+        "Data Analysis",
+        "Power BI",
+        "Predictive Analytics",
+        "SQL",
+        "Data Visualization",
+        "Statistical Modeling"
+    ],
+    "projects": [
+        {
+            "name": "Student Success Predictor",
+            "description": "Built a machine learning model to predict student success factors, increasing course completion rates by 18%. Utilized Python, Power BI, and SQL."
+        },
+        {
+            "name": "Operational Efficiency Dashboard",
+            "description": "Developed an interactive dashboard to track resource allocation and optimize operational workflows, resulting in a 25% reduction in operational costs. Tools used: Power BI, Excel."
+        }
+    ],
+    "tools": [
+        "Power BI",
+        "Python",
+        "SQL",
+        "Excel"
+    ],
+    "certifications": [
+        {
+            "name": "Data Science Professional Certification",
+            "issuer": "Data Analytics Association",
+            "year": "2017"
+        }
+    ],
+    "location": "City, Country",
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

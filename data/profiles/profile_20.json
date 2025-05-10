@@ -1,0 +1,60 @@
+{
+    "name": "Maria Gonzalez",
+    "summary": "Data analyst with 4 years of experience in the e-commerce sector. Skilled in Python and machine learning, specializing in deriving actionable insights from complex data sets.",
+    "education": [
+        {
+            "degree": "Master of Business Analytics",
+            "institution": "Fictional University",
+            "year": "2017"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Senior Data Analyst",
+            "company": "Digital Mart",
+            "years": "2019-2021",
+            "description": "Led a team in developing predictive models that optimized product recommendations, resulting in a 15% increase in cross-selling efficiency."
+        },
+        {
+            "title": "Data Analyst",
+            "company": "Online Emporium",
+            "years": "2017-2019",
+            "description": "Performed cohort analysis to identify customer behavior patterns, leading to a 10% decrease in customer churn rate."
+        }
+    ],
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "Data Visualization",
+        "Statistical Analysis",
+        "SQL"
+    ],
+    "projects": [
+        {
+            "name": "Customer Segmentation Project",
+            "description": "Utilized K-means clustering to segment customer base, resulting in targeted marketing strategies and a 20% increase in conversion rates."
+        },
+        {
+            "name": "Sales Forecasting Model",
+            "description": "Developed a machine learning model using time series analysis to predict sales trends accurately, improving forecasting accuracy by 25%."
+        }
+    ],
+    "tools": [
+        "Scikit-learn",
+        "Pandas",
+        "Tableau",
+        "Jupyter Notebook"
+    ],
+    "certifications": [
+        {
+            "name": "Certified Business Analyst",
+            "issuer": "Institute of Business Analytics",
+            "year": "2017"
+        }
+    ],
+    "location": "New York City, USA",
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

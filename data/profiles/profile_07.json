@@ -1,0 +1,61 @@
+{
+    "name": "Avery Johnson",
+    "summary": "Data analyst with a strong finance background, leveraging R expertise to drive data-driven decisions. Experienced in uncovering actionable insights and optimizing financial strategies.",
+    "education": [
+        {
+            "degree": "Data Analysis Bootcamp",
+            "institution": "TechSkills Institute",
+            "year": "2017"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Senior Data Analyst",
+            "company": "Quantum Finance Solutions",
+            "years": "2018-2021",
+            "description": "Led financial data analysis projects, resulting in a 15% increase in cost-efficiency. Developed predictive models to optimize investment returns."
+        },
+        {
+            "title": "Data Scientist",
+            "company": "Alpha Investments",
+            "years": "2016-2018",
+            "description": "Performed risk analysis on investment portfolios, reducing potential losses by 10%. Automated reporting processes, saving 20 hours weekly."
+        }
+    ],
+    "skills": [
+        "R Programming",
+        "Financial Modeling",
+        "Data Visualization",
+        "Statistical Analysis",
+        "Predictive Modeling"
+    ],
+    "projects": [
+        {
+            "name": "Portfolio Optimization Tool",
+            "description": "Built an R-based tool to recommend optimal investment allocations, resulting in a 12% increase in portfolio value. Used Shiny for interactive visualization."
+        },
+        {
+            "name": "Credit Risk Prediction Model",
+            "description": "Developed a machine learning model to assess credit risk, decreasing default rates by 8%. Utilized ggplot2 for visualizing model performance."
+        }
+    ],
+    "tools": [
+        "R",
+        "Shiny",
+        "ggplot2",
+        "Python",
+        "SQL"
+    ],
+    "certifications": [
+        {
+            "name": "Certified Financial Analyst (CFA)",
+            "issuer": "Finance Certification Board",
+            "year": "2016"
+        }
+    ],
+    "location": "New York City, USA",
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

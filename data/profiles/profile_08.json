@@ -1,0 +1,61 @@
+{
+    "name": "Alexandra Reynolds",
+    "summary": "Data analyst with a proven track record in e-commerce, leveraging Python and ML to drive business insights and optimize strategies. Experienced in translating complex data into actionable solutions for growth.",
+    "education": [
+        {
+            "degree": "Master of Business Analytics",
+            "institution": "City University",
+            "year": "2016"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Senior Data Analyst",
+            "company": "Quantum Retail",
+            "years": "2018-2021",
+            "description": "Led data-driven projects to enhance customer segmentation, resulting in a 15% increase in conversion rates. Developed predictive models for inventory optimization, reducing stockouts by 20%."
+        },
+        {
+            "title": "Data Scientist",
+            "company": "InnoRetail Solutions",
+            "years": "2016-2018",
+            "description": "Built recommendation systems using collaborative filtering, improving cross-selling by 25%. Conducted A/B testing on pricing strategies, leading to a 10% uplift in revenue."
+        }
+    ],
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "Data Visualization",
+        "Statistical Analysis",
+        "SQL"
+    ],
+    "projects": [
+        {
+            "name": "Customer Lifetime Value Prediction",
+            "description": "Developed a machine learning model to forecast customer lifetime value, enabling personalized marketing strategies and increasing customer retention by 18%. Utilized Python, scikit-learn, and pandas."
+        },
+        {
+            "name": "Market Basket Analysis",
+            "description": "Performed market basket analysis to uncover product associations and optimize promotions, resulting in a 12% boost in average order value. Leveraged Apriori algorithm and SQL for data extraction."
+        }
+    ],
+    "tools": [
+        "Python",
+        "scikit-learn",
+        "pandas",
+        "SQL",
+        "Tableau",
+        "Jupyter Notebook"
+    ],
+    "certifications": [
+        {
+            "name": "Certified Business Intelligence Professional",
+            "issuer": "Data Analytics Association",
+            "year": "2017"
+        }
+    ],
+    "location": "New York City, USA",
+    "languages": [
+        "English"
+    ]
+}

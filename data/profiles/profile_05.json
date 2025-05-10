@@ -1,0 +1,59 @@
+{
+    "name": "Avery Thompson",
+    "summary": "Detail-oriented Data Analyst with a passion for leveraging data to drive business decisions in the retail industry. Proficient in Tableau for data visualization and analysis, dedicated to delivering actionable insights.",
+    "education": [
+        {
+            "degree": "Data Analytics Bootcamp Certification",
+            "institution": "Tech Skills Institute",
+            "year": "2020"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Data Analyst",
+            "company": "Retail Solutions Co.",
+            "years": "2018-2020",
+            "description": "Led analysis on customer purchasing patterns, resulting in a 15% increase in upsell revenue. Developed Tableau dashboards for real-time sales monitoring."
+        },
+        {
+            "title": "Business Intelligence Intern",
+            "company": "Global Retailers Inc.",
+            "years": "2017-2018",
+            "description": "Assisted in creating predictive models to optimize inventory management. Conducted market research leading to a 10% cost reduction in supply chain operations."
+        }
+    ],
+    "skills": [
+        "Data Analysis",
+        "Statistical Modeling",
+        "Tableau",
+        "SQL",
+        "Problem-Solving"
+    ],
+    "projects": [
+        {
+            "name": "Customer Segmentation Project",
+            "description": "Segmented customer base using Tableau to personalize marketing strategies, increasing customer retention by 20%."
+        },
+        {
+            "name": "Product Performance Analysis",
+            "description": "Analyzed sales data to identify underperforming products, resulting in a targeted marketing campaign and 12% sales growth."
+        }
+    ],
+    "tools": [
+        "Tableau",
+        "SQL",
+        "Excel",
+        "Python"
+    ],
+    "certifications": [
+        {
+            "name": "Tableau Desktop Specialist",
+            "issuer": "Tableau Certification Board",
+            "year": "2019"
+        }
+    ],
+    "location": "New York City, USA",
+    "languages": [
+        "English"
+    ]
+}

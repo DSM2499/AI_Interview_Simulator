@@ -1,0 +1,96 @@
+{
+  "name": "Dinakar S. Murthy",
+  "summary": "Experienced Lead Marketing Data Analyst with expertise in data-driven marketing research, statistical analysis, and machine learning. Skilled in Python, SQL, and data visualization tools, with a strong academic background in Business Analytics and Computer Science.",
+  "education": [
+    {
+      "degree": "Master of Science (MS) in Business Analytics",
+      "institution": "San Francisco State University, USA",
+      "year": "May 2024"
+    },
+    {
+      "degree": "Bachelor of Technology (B.Tech) in Computer Science and Engineering",
+      "institution": "PES University, India",
+      "year": "October 2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Lead Marketing Data Analyst",
+      "company": "San Francisco State University",
+      "years": "Jul 2024 - Present",
+      "description": "Boosted search engine marketing (SEM) conversion rates by 40% through keyword analysis, trend identification, and strategy optimization. Led data-driven marketing research with custom KPIs and visualization for enhanced decision-making on digital platforms."
+    },
+    {
+      "title": "Data Research Assistant",
+      "company": "San Francisco State University",
+      "years": "Dec 2023\u2013May 2024",
+      "description": "Developed innovative sales prediction model for digital startups by leveraging advanced statistical analysis techniques. Addressed industry-specific needs by identifying gaps in existing models."
+    },
+    {
+      "title": "Lead Data Analyst",
+      "company": "Kinetrix Technologies, India",
+      "years": "Jun 2021\u2013Jul 2022",
+      "description": "Developed a social welfare web application with Django, Python, SQL, Folium, and Google Maps API to enhance user experience. Improved project efficiency as Project Manager by applying best practices in data analysis and technology integration."
+    }
+  ],
+  "skills": [
+    "Python",
+    "R",
+    "SQL",
+    "JavaScript/Typescript",
+    "C/C++",
+    "Java",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn",
+    "SciPy",
+    "Apache Spark",
+    "Tableau",
+    "MS Excel",
+    "Statistical Analysis",
+    "Hypothesis Testing",
+    "A/B Testing",
+    "Regression Analysis",
+    "Forecasting",
+    "Classification",
+    "Git Version Control",
+    "Data Mining",
+    "Scikit-learn (Sklearn)",
+    "Neural Networks",
+    "Ensemble Modelling",
+    "Model Optimization",
+    "Predictive Modelling"
+  ],
+  "projects": [
+    {
+      "name": "Predictive Sales Analysis",
+      "description": "Quantified impact of marketing interventions on customer acquisition. Created visualizations to illustrate trends and relationships between marketing spend, customer growth, and sales."
+    },
+    {
+      "name": "Workforce Analysis",
+      "description": "Analyzed HR datasets to build predictive models for turnover drivers. Implemented retention strategies based on findings to reduce turnover and enhance employee engagement."
+    },
+    {
+      "name": "AI Chat Bot",
+      "description": "Built a real-time chatbot application with MERN stack, integrating NLP for message processing. Demonstrated expertise in full-stack development and responsive UI design."
+    },
+    {
+      "name": "Healthcare Workforce Analysis",
+      "description": "Performed data cleaning and visualization of nurse staffing data to optimize schedules and reduce costs. Provided data-driven recommendations for improved patient outcomes."
+    },
+    {
+      "name": "SEM Dashboard",
+      "description": "Developed interactive visualizations for analyzing SEM trends and providing actionable insights for campaign adjustments."
+    },
+    {
+      "name": "United States Demographic Analysis",
+      "description": "Built and fine-tuned machine learning models to predict income levels with improved accuracy."
+    }
+  ],
+  "certifications": [],
+  "location": "San Francisco, USA",
+  "languages": [
+    "English"
+  ]
+}

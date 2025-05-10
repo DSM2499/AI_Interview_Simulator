@@ -1,0 +1,54 @@
+{
+    "name": "Lakshmi Rao",
+    "summary": "Dedicated Junior Data Analyst with a passion for leveraging data to improve healthcare outcomes. Skilled in R programming, data visualization, and statistical analysis.",
+    "education": [
+        {
+            "degree": "Data Analysis Bootcamp",
+            "institution": "TechSkills Institute",
+            "year": "2020"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Data Analyst",
+            "company": "MediCare Insights",
+            "years": "2019-2021",
+            "description": "Developed predictive models to optimize patient care pathways, resulting in a 15% increase in treatment efficiency."
+        },
+        {
+            "title": "Health Data Intern",
+            "company": "Wellness Analytics",
+            "years": "2018-2019",
+            "description": "Analyzed patient health records to identify trends, leading to actionable insights for preventive healthcare strategies."
+        }
+    ],
+    "skills": [
+        "R Programming",
+        "Data Visualization",
+        "Statistical Analysis",
+        "Predictive Modeling",
+        "Healthcare Data Analysis",
+        "Team Collaboration"
+    ],
+    "projects": [
+        {
+            "name": "Patient Readmission Prediction",
+            "description": "Built a machine learning model to predict patient readmission rates, reducing readmission by 10% using R and ggplot2."
+        },
+        {
+            "name": "Population Health Analysis",
+            "description": "Conducted in-depth analysis of population health trends using Tableau, presenting actionable recommendations for targeted interventions."
+        }
+    ],
+    "tools": [
+        "R",
+        "ggplot2",
+        "Tableau",
+        "Excel"
+    ],
+    "certifications": [],
+    "location": "Seattle, USA",
+    "languages": [
+        "English"
+    ]
+}

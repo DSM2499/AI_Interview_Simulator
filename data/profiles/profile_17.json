@@ -1,0 +1,59 @@
+{
+    "name": "Fatima Khan",
+    "summary": "Data analyst with a strong finance background and expertise in SQL. Skilled in deriving actionable insights from complex datasets to drive strategic decision-making.",
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "STEM University",
+            "year": "2015"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Data Analyst",
+            "company": "Financial Solutions Inc.",
+            "years": "2017-2020",
+            "description": "Performed thorough data analysis to identify trends, reduce risk, and optimize investment strategies. Developed complex SQL queries to extract and manipulate financial data."
+        },
+        {
+            "title": "Quantitative Analyst",
+            "company": "Capital Analytics Group",
+            "years": "2015-2017",
+            "description": "Built predictive models to forecast market trends and assess portfolio performance. Utilized statistical tools to analyze financial data and provide actionable insights to stakeholders."
+        }
+    ],
+    "skills": [
+        "SQL",
+        "Data Analysis",
+        "Predictive Modeling",
+        "Statistical Analysis",
+        "Financial Modeling"
+    ],
+    "projects": [
+        {
+            "name": "Portfolio Optimization Tool",
+            "description": "Designed and implemented a tool to optimize investment portfolios based on risk appetite and performance metrics. Used SQL for data retrieval and portfolio analysis."
+        },
+        {
+            "name": "Fraud Detection System",
+            "description": "Developed a fraud detection system using machine learning algorithms to identify suspicious transactions. Utilized Python, SQL, and Tableau for data processing and visualization."
+        }
+    ],
+    "tools": [
+        "SQL",
+        "Python",
+        "Tableau",
+        "Statistical Tools"
+    ],
+    "certifications": [
+        {
+            "name": "Certified Financial Data Professional",
+            "issuer": "Finance Analytics Association",
+            "year": "2018"
+        }
+    ],
+    "location": "New York City, USA",
+    "languages": [
+        "English"
+    ]
+}

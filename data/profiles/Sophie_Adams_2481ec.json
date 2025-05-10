@@ -1,0 +1,58 @@
+{
+  "name": "Sophie Adams",
+  "summary": "Experienced Data Analyst with a background in the education sector. Skilled in leveraging Power BI for actionable insights and data-driven decision-making.",
+  "education": [
+    {
+      "degree": "Master of Education",
+      "institution": "University of Applied Sciences",
+      "year": "2016"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Data Analyst",
+      "company": "EduSolve",
+      "years": "2017-2020",
+      "description": "Developed interactive dashboards in Power BI to track student performance metrics, resulting in a 15% increase in graduation rates."
+    },
+    {
+      "title": "Research Analyst",
+      "company": "EduInsights",
+      "years": "2015-2017",
+      "description": "Analyzed survey data using statistical tools to identify trends in teaching methodologies, leading to the implementation of a more effective curriculum."
+    }
+  ],
+  "skills": [
+    "Data Analysis",
+    "Power BI",
+    "Statistical Modeling",
+    "Data Visualization",
+    "Problem-Solving"
+  ],
+  "projects": [
+    {
+      "name": "Student Success Dashboard",
+      "description": "Created a Power BI dashboard to monitor student attendance and grades, contributing to a 10% improvement in student retention rates. Tools: Power BI, SQL."
+    },
+    {
+      "name": "Teacher Performance Analysis",
+      "description": "Conducted a comprehensive analysis of teacher evaluations data, resulting in targeted training programs and a 20% increase in student satisfaction scores. Tools: Excel, Power BI."
+    }
+  ],
+  "tools": [
+    "Power BI",
+    "SQL",
+    "Excel"
+  ],
+  "certifications": [
+    {
+      "name": "Data Analysis Certification",
+      "issuer": "Data Institute",
+      "year": "2018"
+    }
+  ],
+  "location": "New City, Newland",
+  "languages": [
+    "English"
+  ]
+}

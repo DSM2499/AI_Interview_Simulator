@@ -1,0 +1,60 @@
+{
+    "name": "Samantha Lee",
+    "summary": "Detail-oriented junior Data Analyst with a background in STEM education. Proficient in Power BI with a passion for translating data into actionable insights to drive educational improvements.",
+    "education": [
+        {
+            "degree": "Bachelor of Science in Data Analytics",
+            "institution": "Tech Institute of Science",
+            "year": "2019"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Data Analyst Intern",
+            "company": "EducateNow",
+            "years": "2019-2020",
+            "description": "Developed interactive dashboards using Power BI to visualize student performance data, leading to a 15% increase in teacher efficiency."
+        },
+        {
+            "title": "Research Assistant",
+            "company": "LearnTech Research Center",
+            "years": "2018-2019",
+            "description": "Conducted statistical analysis on student engagement data, identifying key factors influencing learning outcomes."
+        }
+    ],
+    "skills": [
+        "Data Analysis",
+        "Statistical Modeling",
+        "Power BI",
+        "SQL",
+        "Critical Thinking",
+        "Problem-Solving"
+    ],
+    "projects": [
+        {
+            "name": "Student Performance Dashboard",
+            "description": "Created a dynamic dashboard in Power BI to track student progress and identify at-risk students, resulting in a 10% increase in student retention."
+        },
+        {
+            "name": "Educational Engagement Study",
+            "description": "Led a team to analyze survey data using statistical models, uncovering insights that improved student engagement strategies."
+        }
+    ],
+    "tools": [
+        "Power BI",
+        "SQL",
+        "Python",
+        "Excel"
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft Certified: Data Analyst Associate",
+            "issuer": "Microsoft",
+            "year": "2020"
+        }
+    ],
+    "location": "Cityville, Country",
+    "languages": [
+        "English"
+    ]
+}
