@@ -1,0 +1,72 @@
+[
+  {
+    "candidate_name": "Alex Smith",
+    "round_scores": {
+      "Manager": 10.0,
+      "Technical": 8.0,
+      "Behavioral": 9.25
+    },
+    "overall_score": 8.92,
+    "recommendation": "Strong Hire"
+  },
+  {
+    "candidate_name": "Dinakar S. Murthy",
+    "round_scores": {
+      "Behavioral": 8.75,
+      "Manager": 9.33,
+      "Technical": 8.4
+    },
+    "overall_score": 8.75,
+    "recommendation": "Strong Hire"
+  },
+  {
+    "candidate_name": "Samantha Lee",
+    "round_scores": {
+      "Technical": 8.2,
+      "Manager": 9.0,
+      "Behavioral": 7.5
+    },
+    "overall_score": 8.17,
+    "recommendation": "Lean Hire"
+  },
+  {
+    "candidate_name": "Avery Johnson",
+    "round_scores": {
+      "Technical": 7.8,
+      "Manager": 9.33,
+      "Behavioral": 8.25
+    },
+    "overall_score": 8.33,
+    "recommendation": "Lean Hire"
+  },
+  {
+    "candidate_name": "Alexandra Chen",
+    "round_scores": {
+      "Technical": 9.2,
+      "Manager": 9.33,
+      "Behavioral": 8.25
+    },
+    "overall_score": 8.92,
+    "recommendation": "Strong Hire"
+  },
+  {
+    "candidate_name": "Sophie Adams",
+    "round_scores": {
+      "Technical": 8.0,
+      "Behavioral": 8.25,
+      "Manager": 9.33
+    },
+    "overall_score": 8.42,
+    "recommendation": "Lean Hire"
+  },
+  {
+    "candidate_name": "Alicia Chen",
+    "round_scores": {
+      "Manager": 9.0,
+      "Technical": 8.4,
+      "Behavioral": 7.25
+    },
+    "overall_score": 8.17,
+    "recommendation": "Lean Hire"
+  }
+]
