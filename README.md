@@ -3,6 +3,35 @@
 ## Dashboard Preview
 ![](https://github.com/DSM2499/AI_Interview_Simulator/blob/main/screenshots/AI%20Interview%20Review.jpeg)
 
+## How to run
+Create a Virtual Environment
+```bash
+python3 -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+```
+Install dependencies
+```bash
+pip install -r requirements.txt
+```
+Create a `.env` file in the rool directory:
+```bash
+OPEN_AI_KEY = Your_Key_Here
+```
+To run a full simulation
+- With a PDF Resume
+```bash
+python run_simulation.py path/to/resume.pdf
+```
+- With Pre-built JSON Resume
+```bash
+python run_simulation.py path/to/profile.json --json
+```
+
+To run the dashboard manually
+```bash
+stremlit run app.py
+```
+
 ## 1. Project Overview
 
 This project is a comprehensive AI-powered interview simulation framework built to evaluate candidates based on structured resumes or directly ingested JSON profiles. It automates the end-to-end simulation of multi-round interviews, evaluates responses using LLM-based scoring, generates performance reports, and displays real-time dashboards for review.
