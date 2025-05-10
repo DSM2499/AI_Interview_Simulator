@@ -1,7 +1,7 @@
 # AI Interview Simulation System
 
 ## Dashboard Preview
-!
+![](https://github.com/DSM2499/AI_Interview_Simulator/blob/main/screenshots/AI%20Interview%20Review.jpeg)
 
 ## 1. Project Overview
 
