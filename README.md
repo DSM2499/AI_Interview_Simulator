@@ -34,7 +34,7 @@ stremlit run app.py
 
 ## 1. Project Overview
 
-This project is a comprehensive AI-powered interview simulation framework built to evaluate candidates based on structured resumes or directly ingested JSON profiles. It automates the end-to-end simulation of multi-round interviews, evaluates responses using LLM-based scoring, generates performance reports, and displays real-time dashboards for review.
+The AI Interview Simulation Platform is an intelligent end-to-end system designed to simulate multi-round job interviews for data analyst roles. This system evaluates candidates based on custom-generated resumes (or uploaded ones), conducts interview rounds using LLM agents, provides detailed evaluations, and outputs comprehensive reports and dashboards. It automates candidate screening and helps recruiters visualize performance across various evaluation criteria.
 
 ## 2. Key Components
 
