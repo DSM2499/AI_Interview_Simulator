@@ -56,14 +56,57 @@ The AI Interview Simulation Platform is an intelligent end-to-end system designe
 7. **Report Generation:** Graphs, summary, and evaluator feedback rendered to HTML
 8. **Dashboard:** Streamlit frontend visualizes all data
 
-## 4. Technologies Used
+## 4. Project Workflow & Implementation
+The project evolved in well-structured phases, each delivering core functionality and integrations. Below is a breakdown of how the work progressed.
 
-- **OpenAI API (GPT-3.5-turbo)**
-- **Python** (LLM orchestration, backend logic)
-- **Streamlit** (real-time dashboard)
-- **Matplotlib** (performance visualizations)
-- **FPDF** (report export)
-- **HTML/CSS** (report styling)
+### 🔹 Phase 1: Resume Processing and Profile Generation
+- **Input Options**: Users can submit:
+  - PDF Resumes (parsed using LLMs)
+  - Structured JSON profiles
+- **Profile Generator (Rudimentory ATS)**:
+  - Extracts educational background, tools, skills, projects, and experiences
+  - Converts inputs into a lean profile schema for downstream tasks
+
+### 🔹 Phase 2: Interview Simulation Engine
+- Dynamically generate personalized questions
+- Answers are evaluated by a 3rd agent with feedback, scoring and justification
+Key Strategies:
+- Round-specific interviewer personas
+- Embedding-based topic memory to reduce redundancy
+- Penalization for repetitive answers/projects
+- Multi-turn agent interaction using `ConversationBufferMemory`
+
+### 🔹 Phase 3: Scoring Framework
+- Each answer is evaluated on four dimensions:
+  - Analytical thinking
+  - Technical Depth
+  - Business Insight
+  - Communication
+- Each criterion is scored [1–10] and averaged per response
+- Round-level and overall scores are derived
+- Final hiring recommendations:
+  - `Strong Hire` (≥ 8.5)
+  - `Lean Hire` (7.0–8.4)
+  - `No Hire` (< 7.0)
+
+### 🔹 Phase 4: Report Generation
+- For each candidate, the system:
+  - Aggregates scores
+  - Embeds performance charts
+  - Attaches round-wise feedback
+  - Creates an HTML summary report
+
+### 🔹 Phase 5: Real-Time Dashboard (Streamlit)
+- A user-friendly dashboard built with Streamlit:
+  - Candidate Selector
+  - Score + recommendation display
+  - Embedded performance chart
+  - Interactive Q&A per round with evaluator feedback
+- Supports dropdowns, custom styling, and expandable components
+**Backend Features**
+  - Automatic discovery of reports/transcripts
+  - Complied transcript dictionaries
+  - Profile + transcript syncing
 
 ## 5. Candidate Simulation Modes
 
@@ -79,27 +122,13 @@ The AI Interview Simulation Platform is an intelligent end-to-end system designe
 - `backend.py`: Loads data for frontend
 - `app.py`: Streamlit UI
 
-## 7. Report Features
+## 7. Evaluation & Scoring Framework
 
-- Final score and recommendation
-- Round-wise bar chart
-- Evaluator feedback per question
-- Clean layout, exportable as PDF or HTML
-
-## 8. Dashboard Features
-
-- Candidate selector
-- Summary of scores and recommendation
-- Per-round Q&A with feedback in collapsible sections
-- Embedded report visualizations
-
-## 9. Evaluation & Scoring Framework
-
-### 9.1 Overview
+### 7.1 Overview
 
 Each candidate answer is evaluated using a second LLM with a strict JSON schema.
 
-### 9.2 Scoring Schema
+### 7.2 Scoring Schema
 
 {
   "score": 8.2,
@@ -111,14 +140,14 @@ Each candidate answer is evaluated using a second LLM with a strict JSON schema.
   }
 }
 
-### 9.3 Aggregation Logic
+### 7.3 Aggregation Logic
 
 Per round:  
 `mean(score_i)`  
 Overall:  
 `mean(score_r)`
 
-### 9.4 Recommendation Logic
+### 7.4 Recommendation Logic
 
 | Score Range | Verdict       |
 |-------------|---------------|
@@ -126,9 +155,8 @@ Overall:
 | 7.0–8.49    | Lean Hire     |
 | < 7.0       | No Hire       |
 
-### 9.5 Benefits
-
-- Multi-dimensional scoring
-- Objective and explainable
-- All transcripts and scores are saved
-
+## 8. Impact and Use Cases
+- Internal candidate simulation & benchmarking tools
+- AI-based resume review assistants
+- Technical hiring augmentation for startups
+- Talent development platforms with LLMs
