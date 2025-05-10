@@ -1,0 +1,24 @@
+{
+  "Round_1_Technical": {
+    "topics": [
+      "general",
+      "technical_sql"
+    ],
+    "projects": [
+      "customer segmentation analysis"
+    ]
+  },
+  "Round_2_Behavioral": {
+    "topics": [
+      "soft_collaboration"
+    ],
+    "projects": []
+  },
+  "Round_3_Hiring_Manager": {
+    "topics": [
+      "business_strategy",
+      "general"
+    ],
+    "projects": []
+  }
+}

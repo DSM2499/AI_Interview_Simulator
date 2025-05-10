@@ -1,0 +1,22 @@
+{
+  "Round_1_Technical": {
+    "topics": [
+      "technical_sql",
+      "eda",
+      "general"
+    ],
+    "projects": []
+  },
+  "Round_2_Behavioral": {
+    "topics": [
+      "soft_collaboration"
+    ],
+    "projects": []
+  },
+  "Round_3_Hiring_Manager": {
+    "topics": [
+      "business_strategy"
+    ],
+    "projects": []
+  }
+}

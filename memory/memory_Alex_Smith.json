@@ -1,0 +1,30 @@
+{
+  "Round_1_Technical": {
+    "topics": [
+      "modeling",
+      "technical_r",
+      "technical_sql",
+      "general"
+    ],
+    "projects": [
+      "healthcare trends analysis"
+    ]
+  },
+  "Round_2_Behavioral": {
+    "topics": [
+      "collaboration",
+      "general",
+      "soft_collaboration"
+    ],
+    "projects": [
+      "healthcare trends analysis"
+    ]
+  },
+  "Round_3_Hiring_Manager": {
+    "topics": [
+      "general",
+      "soft_collaboration"
+    ],
+    "projects": []
+  }
+}
