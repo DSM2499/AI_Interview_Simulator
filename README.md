@@ -3,6 +3,9 @@
 ## Dashboard Preview
 ![](https://github.com/DSM2499/AI_Interview_Simulator/blob/main/screenshots/AI%20Interview%20Review.jpeg)
 
+## Demo
+https://www.youtube.com/watch?v=lKUIoLT0lLU&ab_channel=dinakarmurthy
+
 ## How to run
 Create a Virtual Environment
 ```bash
